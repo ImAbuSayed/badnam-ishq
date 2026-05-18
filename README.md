@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/badnam-ishq/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Badnam Ishq](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/badnam-ishq/) |
+| **Get License** | [Request Licensing for Badnam Ishq](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/badnam-ishq/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Kalli raat ch main jagda haan, feeling the heat,
+> Tere naina da ishara takkda haan, skip a beat.
+> Nashe vich main ghumda haan, out of my mind,
+> Tenu apna main mannda haan, one of a kind.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
