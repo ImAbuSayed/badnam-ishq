@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Badnam Ishq
+
+This log tracks the cryptographic history and versioning for the song **Badnam Ishq** (badnam-ishq).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-19T01:57:39.279338 | `v1` | `bbb1a4e6d9ad7bf421eb7e7c715293fe8e53d142cd999db468da8cf72994e467` | `8d4c79db7e3671d19147de2cb17418b7938ea9eaa39a340998e54ed210ae9b7c` | `2026-05-19_badnam-ishq-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
